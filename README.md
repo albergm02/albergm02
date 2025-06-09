@@ -1,18 +1,16 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7209b7&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlignY=35&desc=Dev%20in%20Progress...&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e60ce,100:7209b7&height=200&section=header&text=Bienvenido%20A%20Mi%20Perfil!&fontSize=40&fontAlignY=35&desc=Dev%20in%20Progress...&descSize=20&descAlignY=60"/>
 </p>
 
-<!-- Profile Picture (Optional) -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%" alt="Profile picture"/>
 </p>
 
 <!-- Quick Intro -->
-<h2 align="center">👋 Hi there! I'm <span style="color:#7209b7;">Your Name</span> 👨‍💻</h2>
+<h2 align="center">👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
 <p align="center">
-  A passionate <strong>Software Developer</strong> currently working on cool projects 🚀<br>
-  Learning more about AI, Web3, and Full-Stack Development 🌐
+  Un apasionado del <strong>Desarrollo Software</strong> estudiando en la actualidad en la Universidad de Salamanca🚀<br>
+  Aprendiendo acerca de Sistemas Distribuidos, Administración de Sistemas y Seguridad en Sistemas.🌐
 </p>
 
 <!-- Social Media Buttons -->
