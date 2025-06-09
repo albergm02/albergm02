@@ -9,11 +9,10 @@
 <!-- Quick Intro -->
 <h2 align="center">👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
 <p align="center">
-  Un apasionado del <strong>Desarrollo Software</strong> estudiando en la actualidad en la Universidad de Salamanca🚀<br>
-  Aprendiendo acerca de Sistemas Distribuidos, Administración de Sistemas y Seguridad en Sistemas.🌐
+  🚀 Un apasionado del <strong>Desarrollo Software</strong> estudiando en la actualidad en la Universidad de Salamanca. 🚀<br>
+  🌐 Estoy aprendiendo conceptos esenciales de Sistemas Distribuidos, Administración de Sistemas, Seguridad en Sistemas y Gestión de Proyectos. 🌐
 </p>
 
-<!-- Social Media Buttons -->
 <p align="center">
   <a href="https://www.instagram.com/beeto.gm" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
