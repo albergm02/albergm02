@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%" alt="Profile picture"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvdjdqc2ljaWlqM2ViZGdma3Y5NGJrcHQ0MWdjcjExOG8xbXJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIt0i2/giphy.gif" width="120" style="border-radius: 50%" alt="Profile picture"/>
 </p>
 
 <!-- Quick Intro -->
