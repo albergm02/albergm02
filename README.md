@@ -30,11 +30,10 @@
 
 ---
 
-<!-- Skills Section -->
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,python,java,git,github,docker,linux,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,,js,html,css,java,git,github,linux,c,cpp&perline=7"/>
 </p>
 
 ---
