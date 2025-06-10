@@ -13,8 +13,8 @@
 ------------------------------------------- -->
 <p align="center">
   <img
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvdjdqc2ljaWlqM2ViZGdma3Y5NGJrcHQ0MWdjcjExOG8xbXJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIt0i2/giphy.gif"
-    width="250"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdzYTg3ZndjZ3IwbjgycmRzbDkwZDZuMmpxMGd6em9pbnB5ZHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
+    width="400"
     alt="Alberto's Profile Picture"
     style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
   />
