@@ -35,7 +35,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albergm02" />
 </a>
 <a href="https://github.com/albergm02/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albergm02&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albergm02&layout=compact&langs_count=8&card_width=220" />
 </a>
 
 <p align="center">
