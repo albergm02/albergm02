@@ -134,11 +134,12 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/MySql-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="MySql" />
+  <img src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="MySQL" />
   <br />
   <!-- Frameworks / Tools -->
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse" />
 </p>
 
 
