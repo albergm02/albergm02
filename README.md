@@ -9,8 +9,8 @@
 <!-- Quick Intro -->
 <h2 align="center">👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
 <p align="center">
-  🚀 Un apasionado del <strong>Desarrollo Software</strong> estudiando en la actualidad en la Universidad de Salamanca. 🚀<br>
-  🌐 Estoy aprendiendo conceptos esenciales de Sistemas Distribuidos, Administración de Sistemas, Seguridad en Sistemas y Gestión de Proyectos. 🌐
+  🚀 Apassionate pf <strong>Software Engineering</strong> currently studying at University of Salamanca. 🚀<br>
+  🌐 I am learning essential concepts of Distributed Systems, Systems Administration, Systems Security and Project Management. 🌐
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ---
 
-### Lenguajes y Skills
+### Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,matlab,linux,c,cpp,mysql,discord&perline=15"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Estadisticas
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albergm02&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
