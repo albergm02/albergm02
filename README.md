@@ -118,11 +118,6 @@
   </a>
 </p>
 
-> **Nota:** Los cards anteriores se han inspirado en repositorios como
-> [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) y
-> [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy), que
-> permiten mostrar estadísticas dinámicas en tu README :contentReference[oaicite:4]{index=4}.
-
 ---
 
 <!-- #########################################
@@ -156,10 +151,6 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <br />
   <!-- Frameworks / Tools -->
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23007ACC.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
