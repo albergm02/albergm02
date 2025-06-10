@@ -31,19 +31,12 @@
 
 ---
 
-### Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,matlab,linux,c,cpp,mysql,discord&perline=15"/>
-</p>
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albergm02&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
-</p>
+<a href="https://github.com/albergm02/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albergm02" />
+</a>
+<a href="https://github.com/albergm02/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albergm02&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albergm02&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
