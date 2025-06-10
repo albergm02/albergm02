@@ -41,14 +41,14 @@
 ### 📊 Estadisticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=radical&border_radius=10&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albergm02&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albergm02&theme=radical&border_radius=10&hide_border=false"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical&border_radius=10&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albergm02&layout=compact&theme=radical&border_radius=10&hide_border=false"/>
 </p>
 
 ---
