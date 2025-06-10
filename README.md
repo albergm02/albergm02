@@ -30,16 +30,23 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Lenguajes y Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,,js,html,css,java,git,github,linux,c,cpp&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,git,github,linux,c,cpp&perline=10"/>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+### Redes sociales
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,git,github,linux,c,cpp&perline=10"/>
+</p>
+
+---
+
+### 📊 Estadisticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical&border_radius=10&hide_border=false"/>
@@ -48,14 +55,12 @@
 
 ---
 
-<!-- GitHub Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=radical&border_radius=10&hide_border=false"/>
 </p>
 
 ---
 
-<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,100:4361ee&height=120&section=footer"/>
 </p>
