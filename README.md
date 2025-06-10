@@ -17,13 +17,13 @@
   <a href="https://www.instagram.com/beeto.gm" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:alberto.g.m.0214@gmail.com">
     <img height="40" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/alberto-garc%C3%ADa-mart%C3%ADn-916871341/" target="_blank">
     <img height="40" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/yourgithub" target="_blank">
+  <a href="https://github.com/albergm02" target="_blank">
     <img height="40" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -31,14 +31,6 @@
 ---
 
 ### Lenguajes y Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,git,github,linux,c,cpp&perline=11"/>
-</p>
-
----
-
-### Redes sociales
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,git,github,linux,c,cpp&perline=11"/>
