@@ -9,8 +9,9 @@
 <!-- Quick Intro -->
 <h2 align="center">👋 Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
 <p align="center">
-  🚀 Apassionate pf <strong>Software Engineering</strong> currently studying at University of Salamanca. 🚀<br>
+  🚀 Apassionate of <strong>Software Engineering</strong> currently studying at University of Salamanca. 🚀<br>
   🌐 I am learning essential concepts of Distributed Systems, Systems Administration, Systems Security and Project Management. 🌐
+  👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​ Learn more about my projects and skills 👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​
 </p>
 
 <p align="center">
