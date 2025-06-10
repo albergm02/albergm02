@@ -6,14 +6,6 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvdjdqc2ljaWlqM2ViZGdma3Y5NGJrcHQ0MWdjcjExOG8xbXJhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XO8RMtRaK73isIt0i2/giphy.gif" width="400" style="border-radius: 200%" alt="Profile picture"/>
 </p>
 
-<!-- Quick Intro -->
-<h2 align="center">👋 Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
-<p align="center">
-  🚀 Apassionate of <strong>Software Engineering</strong> currently studying at University of Salamanca. 🚀<br>
-  🌐 I am learning essential concepts of Distributed Systems, Systems Administration, Systems Security and Project Management. 🌐 <br>
-  👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​ Learn more about my projects and skills 👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​
-</p>
-
 <p align="center">
   <a href="https://www.instagram.com/beeto.gm" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
@@ -27,6 +19,14 @@
   <a href="https://github.com/albergm02" target="_blank">
     <img height="40" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<!-- Quick Intro -->
+<h2 align="center">👋 Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻</h2>
+<p align="center">
+  🚀 Apassionate of <strong>Software Engineering</strong> currently studying at University of Salamanca. 🚀<br>
+  🌐 I am learning essential concepts of Distributed Systems, Systems Administration, Systems Security and Project Management. 🌐 <br>
+  👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​ Learn more about my projects and skills 👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​👇🏻​
 </p>
 
 ---
