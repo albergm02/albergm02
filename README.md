@@ -146,38 +146,6 @@
    SECTION: Proyectos Destacados
 ######################################### -->
 
-## 🚀 Proyectos Destacados
-
-<p align="center">
-  <a href="https://github.com/albergm02/convoychat" target="_blank">
-    <img
-      src="https://img.shields.io/badge/ConvoyChat-Chat_App-blue?style=for-the-badge&logo=github"
-      alt="ConvoyChat"
-    />
-  </a>
-  <a href="https://github.com/albergm02/github-readme-stats" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub_Readme_Stats-Repo-blue?style=for-the-badge&logo=github"
-      alt="GitHub Readme Stats Repo"
-    />
-  </a>
-</p>
-
-<p>
-  <!-- ConvoyChat -->
-  <strong>ConvoyChat</strong> ⁃ 🗨️ Aplicación de chat en tiempo real
-  desarrollada con Node.js, Socket.io y React. <br />
-  <!-- GitHub Readme Stats -->
-  <strong>GitHub Readme Stats</strong> ⁃ 📊 Herramienta que muestra estadísticas
-  de GitHub en cualquier README, usando GitHub Actions y SVG dinámicos. <br />
-  <!-- Aquí podrías añadir más proyectos -->
-</p>
-
-> Estos proyectos sirven como ejemplo de la variedad de tecnologías que manejo y
-> de cómo aplicarlas en soluciones reales. :contentReference[oaicite:7]{index=7}
-
----
-
 <!-- #########################################
    SECTION: Contacto / Visitas
 ######################################### -->
