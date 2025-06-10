@@ -120,22 +120,6 @@
 
 ---
 
-<!-- #########################################
-   SECTION: WakaTime & Activity (Metrics dinámicos)
-######################################### -->
-
-<p align="center">
-  <!-- WakaTime Weekly Coding Activity -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=albergm02&layout=compact&theme=transparent&hide_border=true&title_color=7209b7"
-    alt="Alberto's WakaTime Stats"
-  />
-</p>
-
-> Estos indicadores provienen de la sección “Dev Metrics in Readme” que recomienda
-> WakaTime para mostrar tu actividad semanal de codificación automáticamente :contentReference[oaicite:5]{index=5}.
-
----
 
 <!-- #########################################
    SECTION: Habilidades (Skills) / Lenguajes y herramientas
@@ -155,8 +139,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-> **Tip:** Utiliza badges de Shields.io para cada tecnología. Así tu README
-> estará organizado y se verá uniforme en cualquier tema (claro/oscuro) :contentReference[oaicite:6]{index=6}.
 
 ---
 
