@@ -33,7 +33,7 @@
 ### Lenguajes y Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,git,github,linux,c,cpp&perline=11"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,js,html,css,java,matlab,linux,c,cpp,mysql,discord&perline=15"/>
 </p>
 
 ---
