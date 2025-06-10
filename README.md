@@ -135,6 +135,9 @@
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/MySQL-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="JavaScript" />
   <br />
   <!-- Frameworks / Tools -->
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
