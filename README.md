@@ -10,8 +10,9 @@
   👋🏻​ ¡Hello! I'm Alberto. 👦🏻​
 </h2>
 
+### 📬 Contact:
+
 <p align="center">
-  ### 📬 Contact:
   <a href="https://www.instagram.com/beeto.gm">
     <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -123,7 +124,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,100:4361ee&height=120&section=footer&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,100:4361ee&height=150&section=footer&fontColor=646c73"
     alt="footer wave"
   />
 </p>
