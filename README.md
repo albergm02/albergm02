@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ---
-<h2 align="center">
+<h2 align="left">
   👋 ¡Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
 <p align="left">
