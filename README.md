@@ -1,5 +1,12 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=800&height=400)](https://github.com/Akshay090/svg-banners)
----
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=Theme"
+    alt="header wave"
+  />
+</p>
+
 <h2 align="left">
   👋 ¡Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
