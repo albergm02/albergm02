@@ -1,10 +1,10 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 ---
 <h2 align="center">
-  👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻
+  👋 ¡Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
 <p align="left">
-  I'm [Tu Nombre Aquí], a 23-year-old Computer Engineering student at the University of Salamanca, born and raised in this beautiful city of Salamanca, Spain. <br/>
+  A 23-year-old Computer Engineering student at the University of Salamanca. <br/>
   💻 I'm passionate about computer science, new technologies, and everything related to the world of innovation. I enjoy diving deep into code, learning new tools, and challenging myself with complex problems.<br/>
   🚀 I'm constantly seeking new projects, collaborations, and ambitious goals to grow as a developer and contribute to meaningful solutions. Whether it's backend, frontend, systems, AI, or research — I'm always <br/>
   eager to expand my skillset and take on new challenges. <br/>
@@ -12,8 +12,6 @@
   ---> Software engineering<br/>
   ---> Algorithms and data structures<br/>
   ---> Web development<br/>
-  --->Artificial intelligence and machine learning<br/>
-  📫 Feel free to connect with me if you're working on something exciting or just want to chat about tech!
 </p>
 
 <!-- ------------------------------------------
