@@ -1,13 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdzYTg3ZndjZ3IwbjgycmRzbDkwZDZuMmpxMGd6em9pbnB5ZHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
-    width="400" alt="Alberto's Profile Picture" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);"
-  />
-</p>
-
-
+---
 <h2 align="center">
   👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
