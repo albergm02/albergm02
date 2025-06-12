@@ -3,12 +3,17 @@
 <h2 align="center">
   👋 ¡Hola! Soy <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
-<p align="center">
-  🎓 Estudiante de <strong>Ingeniería Informática</strong> en la
-  Universidad de Salamanca. <br />
-  🌐 Apasionado por <em>Sistemas Distribuidos, Administración de Sistemas,
-  Seguridad y Gestión de Proyectos</em>. <br />
-  🛠️ Construyendo aplicaciones reales y aprendiendo nuevas tecnologías.
+<p align="left">
+  I'm [Tu Nombre Aquí], a 23-year-old Computer Engineering student at the University of Salamanca, born and raised in this beautiful city of Salamanca, Spain. <br/>
+  💻 I'm passionate about computer science, new technologies, and everything related to the world of innovation. I enjoy diving deep into code, learning new tools, and challenging myself with complex problems.<br/>
+  🚀 I'm constantly seeking new projects, collaborations, and ambitious goals to grow as a developer and contribute to meaningful solutions. Whether it's backend, frontend, systems, AI, or research — I'm always <br/>
+  eager to expand my skillset and take on new challenges. <br/>
+  🌱 Currently, I’m focused on strengthening my knowledge in: <br/>
+  ---> Software engineering<br/>
+  ---> Algorithms and data structures<br/>
+  ---> Web development<br/>
+  --->Artificial intelligence and machine learning<br/>
+  📫 Feel free to connect with me if you're working on something exciting or just want to chat about tech!
 </p>
 
 <!-- ------------------------------------------
