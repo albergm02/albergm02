@@ -10,13 +10,15 @@
   👋🏻​ ¡Hello! I'm Alberto. 👦🏻​
 </h2>
 
+### 📬 Contact:
+
 <p align="center">
   
   <a href="https://www.instagram.com/beeto.gm">
-    <img height="30"src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   
-  <a href="mailto:alberto.g.m.0214@gmail.com">
+  <a href="#" onclick="navigator.clipboard.writeText('alberto.g.m.0214@gmail.com'); alert('Email copied to clipboard!')">
     <img height="30" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
@@ -97,17 +99,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" />
 </p>
-
-
----
-
-<!-- #########################################
-   SECTION: Proyectos Destacados
-######################################### -->
-
-<!-- #########################################
-   SECTION: Contacto / Visitas
-######################################### -->
 
 <p align="center">
   <!-- Visitas al perfil -->
