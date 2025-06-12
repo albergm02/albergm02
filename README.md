@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=*&height=400)](https://github.com/albergm02)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=1000&height=400)](https://github.com/albergm02)
 
 <p align="center">
   <img
