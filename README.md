@@ -3,16 +3,7 @@
 <h2 align="left">
   👋 ¡Hello! I'm <span style="color:#7209b7;">Alberto</span> 👨‍💻
 </h2>
-<p align="left">
-  A 23-year-old Computer Engineering student at the University of Salamanca. <br/>
-  💻 I'm passionate about computer science, new technologies, and everything related to the world of innovation. I enjoy diving deep into code, learning new tools, and challenging myself with complex problems.<br/>
-  🚀 I'm constantly seeking new projects, collaborations, and ambitious goals to grow as a developer and contribute to meaningful solutions. Whether it's backend, frontend, systems, AI, or research — I'm always <br/>
-  eager to expand my skillset and take on new challenges. <br/>
-  🌱 Currently, I’m focused on strengthening my knowledge in: <br/>
-  ---> Software engineering<br/>
-  ---> Algorithms and data structures<br/>
-  ---> Web development<br/>
-</p>
+
 
 <!-- ------------------------------------------
   Redes Sociales & Contacto (badges)
