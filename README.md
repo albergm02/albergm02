@@ -124,7 +124,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,100:4361ee&height=150&section=footer&fontColor=646c73"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=646c73"
     alt="footer wave"
   />
 </p>
