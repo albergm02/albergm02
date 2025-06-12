@@ -7,8 +7,8 @@
   />
 </p>
 
-<h2 align="center">
-  👋 ¡Hello! I'm <span style="color:#646c73;">Alberto</span> 👨‍💻
+<h2 align="center" color ="646c73">
+  👋 ¡Hello! I'm Alberto 👨‍💻
 </h2>
 
 
