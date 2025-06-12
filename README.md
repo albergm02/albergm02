@@ -12,14 +12,14 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/beeto.gm" target="_blank">
+  <a href="https://www.instagram.com/beeto.gm">
     <img
       height="20"
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-  <a href="mailto:alberto.g.m.0214@gmail.com" target="_blank">
+  <a href="mailto:alberto.g.m.0214@gmail.com">
     <img
       height="20"
       src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
@@ -28,7 +28,6 @@
   </a>
   <a
     href="https://www.linkedin.com/in/alberto-garc%C3%ADa-mart%C3%ADn-916871341/"
-    target="_blank"
   >
     <img
       height="20"
@@ -36,7 +35,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://github.com/albergm02" target="_blank">
+  <a href="https://github.com/albergm02">
     <img
       height="20"
       src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
