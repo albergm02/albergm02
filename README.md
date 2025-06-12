@@ -1,8 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=1000&height=400)](https://github.com/albergm02)
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=646c73"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=646c73"
     alt="header wave"
   />
 </p>
@@ -49,7 +48,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <!-- Card: Top Languages -->
+
   <a href="https://github.com/albergm02/github-readme-stats">
     <img
       align="center"
@@ -61,20 +60,14 @@
 </p>
 
 <p align="center">
-  <!-- Card: Streak Stats -->
+
   <a href="https://github.com/albergm02/github-readme-streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=albergm02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7209b7&fire=DD2727"
-      alt="Alberto's GitHub Streak"
-    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=albergm02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7209b7&fire=DD2727" alt="Alberto's GitHub Streak" />
   </a>
   &nbsp;&nbsp;
-  <!-- Card: Trophies (GitHub Profile Trophy) -->
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=albergm02&theme=onedark&no-bg=true&margin-w=15"
-      alt="Alberto's GitHub Trophies"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=albergm02&theme=onedark&no-bg=true&margin-w=15" alt="Alberto's GitHub Trophies"/>
   </a>
 </p>
 
