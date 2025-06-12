@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=Theme"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=#333641"
     alt="header wave"
   />
 </p>
