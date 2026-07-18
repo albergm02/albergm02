@@ -44,33 +44,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <!-- Tarjeta de estadísticas generales (reemplaza a la que daba error) -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=albergm02&show_icons=true&theme=transparent&hide_border=true&title_color=7209b7&icon_color=7209b7&include_all_commits=true&count_private=true" alt="Estadísticas de Alberto" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Tarjeta de lenguajes más usados -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albergm02&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=7209b7" alt="Lenguajes más usados" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=albergm02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7209b7&fire=DD2727" alt="Racha de contribuciones" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- Trofeos de GitHub (sigue funcionando bien) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=albergm02&theme=onedark&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
