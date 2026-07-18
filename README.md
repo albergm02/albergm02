@@ -35,13 +35,12 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Graduado en **Ingeniería Informática** por la Universidad de ... *(si quieres, pon el nombre)*.
-- 💼 Buscando activamente oportunidades como **desarrollador de software** o **ingeniero de sistemas**.
+- 🎓 Graduado en **Ingeniería Informática** por la Universidad de Salamanca.
+- 💼 Buscando activamente oportunidades como desarrollador de software o ingeniero de sistemas.
 - 🔭 Actualmente trabajando en proyectos personales para seguir aprendiendo y construyendo mi portfolio.
-- 🌱 Ampliando conocimientos en **desarrollo web full stack**, **bases de datos** y **arquitectura de software**.
+- 🌱 Ampliando conocimientos en desarrollo web full stack, bases de datos y arquitectura de software.
 - 👯 Abierto a colaborar en proyectos open source interesantes.
-- 💬 Pregúntame sobre **C/C++**, **Java**, **JavaScript**, **Linux** o **metodologías ágiles**.
-- ⚡ Dato curioso: Me encanta la música y el cine, y disfruto resolviendo problemas complejos.
+- 💬 Pregúntame sobre C/C++, JavaScript o metodologías de trabajo.
 
 ---
 
@@ -60,7 +59,6 @@
 </p>
 
 <p align="center">
-  <!-- Nueva tarjeta de racha de contribuciones (más estable) -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=albergm02&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7209b7&fire=DD2727" alt="Racha de contribuciones" />
   </a>
@@ -99,19 +97,6 @@
 
 </p>
 
----
-
-### 📌 Proyectos destacados
-
-<!-- Aquí puedes añadir enlaces a tus repositorios más importantes, como tu TFG o proyectos personales -->
-<p align="center">
-  <a href="https://github.com/albergm02/tu-proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=tu-proyecto-1&theme=transparent&hide_border=true&title_color=7209b7" />
-  </a>
-  <a href="https://github.com/albergm02/tu-proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=tu-proyecto-2&theme=transparent&hide_border=true&title_color=7209b7" />
-  </a>
-</p>
 
 ---
 
