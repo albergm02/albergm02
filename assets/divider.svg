@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 24" width="800" height="24" role="presentation">
+  <line x1="40" y1="12" x2="340" y2="12" stroke="#FFC9A3" stroke-width="3" stroke-linecap="round"/>
+  <line x1="460" y1="12" x2="760" y2="12" stroke="#FFC9A3" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="370" cy="12" r="5" fill="#FFD1A9"><animate attributeName="r" values="5;7;5" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="400" cy="12" r="8" fill="#FF9F80"><animate attributeName="r" values="8;10;8" dur="2s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="430" cy="12" r="5" fill="#FFD1A9"><animate attributeName="r" values="5;7;5" dur="2s" begin="0.6s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Alberto García Martín - Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFE3CC"/>
+      <stop offset="0.55" stop-color="#FFD1A9"/>
+      <stop offset="1" stop-color="#FFB48F"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="300" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+    <!-- círculos flotantes -->
+    <circle cx="120" cy="70" r="70" fill="#FFF3E6" opacity="0.45">
+      <animate attributeName="cy" values="70;95;70" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="230" r="95" fill="#FFF3E6" opacity="0.40">
+      <animate attributeName="cy" values="230;205;230" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="60" r="38" fill="#FF9F80" opacity="0.35">
+      <animate attributeName="cx" values="790;820;790" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="230" cy="250" r="26" fill="#FF9F80" opacity="0.35">
+      <animate attributeName="cy" values="250;228;250" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <!-- olas -->
+    <path d="M0 255 C150 220 300 290 500 252 C700 214 850 285 1000 245 L1000 300 L0 300 Z" fill="#FFF3E6" opacity="0.55">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-30 0;0 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 272 C180 245 340 300 520 270 C700 240 860 296 1000 268 L1000 300 L0 300 Z" fill="#FFF3E6" opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="0 0;30 0;0 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <!-- texto -->
+    <g font-family="'Segoe UI', 'Trebuchet MS', Verdana, sans-serif" text-anchor="middle">
+      <text x="500" y="125" font-size="26" fill="#8A5A44" letter-spacing="6" opacity="0.9">
+        <animate attributeName="opacity" values="0;0.9" dur="1.2s" fill="freeze"/>
+        HOLA, SOY
+      </text>
+      <text x="500" y="195" font-size="68" font-weight="700" fill="#5C3A2A">
+        <animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/>
+        Alberto García
+      </text>
+      <text x="500" y="235" font-size="22" fill="#8A5A44">
+        <animate attributeName="opacity" values="0;1" dur="2.2s" fill="freeze"/>
+        Backend Developer · Ingeniero Informático
+      </text>
+    </g>
+  </g>
+</svg>

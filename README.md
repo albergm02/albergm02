@@ -1,82 +1,126 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Albergm%20💿&width=1000&height=400)](https://github.com/albergm02)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=646c73" alt="header wave" />
+  <img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/banner.svg" alt="Alberto García - Backend Developer" width="100%"/>
 </p>
 
-<h2 align="center" color="#646c73">
-  👋🏻 ¡Hola! Soy Alberto.
-</h2>
-
 <p align="center">
-  <em>Graduado en Ingeniería Informática | Apasionado por el desarrollo de software y la tecnología</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E07A5F&center=true&vCenter=true&width=640&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+Salamanca+%F0%9F%8E%93;Backend+Developer+en+Insurea+%F0%9F%92%BC;Apasionado+por+el+software+y+la+tecnolog%C3%ADa+%E2%9C%A8;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%8C%B1" alt="Typing SVG"/>
 </p>
 
----
-
-### 📬 Contacto
-
 <p align="center">
-  <a href="https://www.instagram.com/beeto.gm">
-    <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:alberto.g.m.0214@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alberto-garc%C3%ADa-mart%C3%ADn-916871341/">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/albergm02">
-    <img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=albergm02&label=Visitas&color=FFB48F&style=flat-square&labelColor=5C3A2A" alt="Visitas"/>
+  <img src="https://img.shields.io/badge/📍_Salamanca,_España-FFD1A9?style=flat-square&labelColor=5C3A2A" alt="Ubicación"/>
 </p>
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
 
-### 👨‍💻 Sobre mí
+## 👋🏻 Sobre mí
 
-- 🎓 Graduado en **Ingeniería Informática** por la Universidad de Salamanca.
-- 💼 Buscando activamente oportunidades como desarrollador de software o ingeniero de sistemas.
-- 🔭 Actualmente trabajando en proyectos personales para seguir aprendiendo y construyendo mi portfolio.
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+
+- 🎓 Graduado en **Ingeniería Informática** por la **Universidad de Salamanca**.
+- 💼 **Backend Developer** en [Insurea](https://github.com/albergm02).
+- 🔭 Trabajando en proyectos personales para seguir aprendiendo y construyendo mi portfolio.
 - 🌱 Ampliando conocimientos en desarrollo web full stack, bases de datos y arquitectura de software.
 - 👯 Abierto a colaborar en proyectos open source interesantes.
-- 💬 Pregúntame sobre C/C++, JavaScript o metodologías de trabajo.
+- 💬 Pregúntame sobre **C/C++**, **JavaScript** o metodologías de trabajo.
+- 🌐 Mi web: [albertogm.dev](https://albertogm.dev/)
 
----
+  </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/coding.svg" alt="Ilustración de código" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tecnologías y herramientas
+<p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
 
-<p align="center">
-
-#### 💻 Sistemas operativos
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-#### 📝 Lenguajes de programación
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🧰 Herramientas de desarrollo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu&logoColor=white)
-
-</p>
-
-
----
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  📫 ¿Quieres contactarme? Escríbeme a <a href="mailto:alberto.g.m.0214@gmail.com">alberto.g.m.0214@gmail.com</a>.
+  <b>💻 Sistemas operativos</b><br/>
+  <img src="https://img.shields.io/badge/Linux-FFD1A9?style=for-the-badge&logo=linux&logoColor=5C3A2A" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-FFD1A9?style=for-the-badge&logo=ubuntu&logoColor=5C3A2A" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Windows-FFD1A9?style=for-the-badge&logo=windows&logoColor=5C3A2A" alt="Windows"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=646c73" alt="footer wave" />
+  <b>📝 Lenguajes</b><br/>
+  <img src="https://img.shields.io/badge/C-FFB48F?style=for-the-badge&logo=c&logoColor=5C3A2A" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-FFB48F?style=for-the-badge&logo=cplusplus&logoColor=5C3A2A" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-FFB48F?style=for-the-badge&logo=openjdk&logoColor=5C3A2A" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFB48F?style=for-the-badge&logo=javascript&logoColor=5C3A2A" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-FFB48F?style=for-the-badge&logo=html5&logoColor=5C3A2A" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-FFB48F?style=for-the-badge&logo=css3&logoColor=5C3A2A" alt="CSS3"/>
+</p>
+
+<p align="center">
+  <b>🧰 Herramientas de desarrollo</b><br/>
+  <img src="https://img.shields.io/badge/Git-FF9F80?style=for-the-badge&logo=git&logoColor=5C3A2A" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FF9F80?style=for-the-badge&logo=github&logoColor=5C3A2A" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-FF9F80?style=for-the-badge&logo=visualstudiocode&logoColor=5C3A2A" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Bash-FF9F80?style=for-the-badge&logo=gnubash&logoColor=5C3A2A" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Make-FF9F80?style=for-the-badge&logo=gnu&logoColor=5C3A2A" alt="Make"/>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=albergm02&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Estadísticas de GitHub"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albergm02&layout=compact&langs_count=8&title_color=E07A5F&text_color=5C3A2A&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=albergm02&hide_border=false&background=FFF3E6&border=FFD1A9&stroke=FFD1A9&ring=FF9F80&fire=FF8A65&currStreakNum=5C3A2A&currStreakLabel=E07A5F&sideNums=5C3A2A&sideLabels=8A5A44&dates=8A5A44&border_radius=16" alt="Racha de contribuciones"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albergm02&bg_color=FFF3E6&color=E07A5F&line=FF9F80&point=5C3A2A&area=true&area_color=FFD1A9&hide_border=true&radius=16" alt="Gráfico de actividad" width="95%"/>
+</p>
+
+### 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=albergm02&theme=flat&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trofeos de GitHub"/>
+</p>
+
+### 📌 Proyectos destacados
+
+<!-- Sustituye los nombres de repo por tus proyectos favoritos -->
+<p align="center">
+  <a href="https://github.com/albergm02/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=NOMBRE_REPO_1&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Repo 1"/></a>
+  <a href="https://github.com/albergm02/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=NOMBRE_REPO_2&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Repo 2"/></a>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
+
+## 🐍 Mi calendario de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/albergm02/albergm02/output/github-snake-dark.svg"/>
+    <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/albergm02/albergm02/output/github-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
+
+## 📬 Contacto
+
+<p align="center">
+  <a href="https://www.instagram.com/beeto.gm"><img height="32" src="https://img.shields.io/badge/Instagram-FFB48F?style=for-the-badge&logo=instagram&logoColor=5C3A2A" alt="Instagram"/></a>
+  <a href="mailto:alberto.g.m.0214@gmail.com"><img height="32" src="https://img.shields.io/badge/Email-FFB48F?style=for-the-badge&logo=gmail&logoColor=5C3A2A" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/alberto-garc%C3%ADa-mart%C3%ADn-916871341/"><img height="32" src="https://img.shields.io/badge/LinkedIn-FFB48F?style=for-the-badge&logo=linkedin&logoColor=5C3A2A" alt="LinkedIn"/></a>
+  <a href="https://albertogm.dev/"><img height="32" src="https://img.shields.io/badge/Web-FFB48F?style=for-the-badge&logo=googlechrome&logoColor=5C3A2A" alt="Web"/></a>
+</p>
+
+<p align="center">
+  📫 ¿Quieres contactarme? Escríbeme a <a href="mailto:alberto.g.m.0214@gmail.com">alberto.g.m.0214@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=FFD1A9" alt="footer wave" width="100%"/>
 </p>
