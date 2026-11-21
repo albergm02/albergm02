@@ -89,10 +89,14 @@
 
 ### 📌 Proyectos destacados
 
-<!-- Sustituye los nombres de repo por tus proyectos favoritos -->
 <p align="center">
-  <a href="https://github.com/albergm02/NOMBRE_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=NOMBRE_REPO_1&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Repo 1"/></a>
-  <a href="https://github.com/albergm02/NOMBRE_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=NOMBRE_REPO_2&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Repo 2"/></a>
+  <a href="https://github.com/albergm02/Formula1_Fantasy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=Formula1_Fantasy&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="Formula1_Fantasy"/></a>
+  <a href="https://github.com/albergm02/FastAPI-build-production-grade"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=FastAPI-build-production-grade&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="FastAPI-build-production-grade"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/albergm02/SQLPlus-MongoDB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=SQLPlus-MongoDB&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="SQLPlus-MongoDB"/></a>
+  <a href="https://github.com/albergm02/ThePerchRoute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=albergm02&repo=ThePerchRoute&title_color=E07A5F&text_color=5C3A2A&icon_color=FF9F80&bg_color=FFF3E6&border_color=FFD1A9&border_radius=16" alt="ThePerchRoute"/></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
