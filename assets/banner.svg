@@ -41,7 +41,7 @@
       </text>
       <text x="500" y="235" font-size="22" fill="#8A5A44">
         <animate attributeName="opacity" values="0;1" dur="2.2s" fill="freeze"/>
-        Backend Developer · Ingeniero Informático
+        Junior Backend Developer · Python · MongoDB · Node.js
       </text>
     </g>
   </g>

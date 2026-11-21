@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E07A5F&center=true&vCenter=true&width=640&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+Salamanca+%F0%9F%8E%93;Backend+Developer+en+Insurea+%F0%9F%92%BC;Apasionado+por+el+software+y+la+tecnolog%C3%ADa+%E2%9C%A8;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%8C%B1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=E07A5F&center=true&vCenter=true&width=640&lines=Ingeniero+Inform%C3%A1tico+por+la+Universidad+de+Salamanca+%F0%9F%8E%93;Junior+Backend+Developer+en+Insurea+Technologies+%F0%9F%92%BC;Python+%C2%B7+MongoDB+%C2%B7+Node.js+%F0%9F%9A%80;Apasionado+por+el+software+y+la+tecnolog%C3%ADa+%E2%9C%A8;Siempre+aprendiendo%2C+siempre+construyendo+%F0%9F%8C%B1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
     <td width="55%" valign="middle">
 
 - 🎓 Graduado en **Ingeniería Informática** por la **Universidad de Salamanca**.
-- 💼 **Backend Developer** en [Insurea](https://github.com/albergm02).
+- 💼 **Junior Backend Developer** en **Insurea Technologies**, trabajando en equipo con **Scrum** y **Kanban**.
 - 🔭 Trabajando en proyectos personales para seguir aprendiendo y construyendo mi portfolio.
 - 🌱 Ampliando conocimientos en desarrollo web full stack, bases de datos y arquitectura de software.
 - 👯 Abierto a colaborar en proyectos open source interesantes.
-- 💬 Pregúntame sobre **C/C++**, **JavaScript** o metodologías de trabajo.
+- 💬 Pregúntame sobre **Python**, **MongoDB**, **Node.js** o metodologías ágiles.
 - 🌐 Mi web: [albertogm.dev](https://albertogm.dev/)
 
   </td>
@@ -36,32 +36,39 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack y forma de trabajo
 
 <p align="center">
-  <b>💻 Sistemas operativos</b><br/>
-  <img src="https://img.shields.io/badge/Linux-FFD1A9?style=for-the-badge&logo=linux&logoColor=5C3A2A" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-FFD1A9?style=for-the-badge&logo=ubuntu&logoColor=5C3A2A" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Windows-FFD1A9?style=for-the-badge&logo=windows&logoColor=5C3A2A" alt="Windows"/>
+  <b>🐍 Backend</b><br/>
+  <img src="https://img.shields.io/badge/Python-FF9F80?style=for-the-badge&logo=python&logoColor=5C3A2A" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-FF9F80?style=for-the-badge&logo=fastapi&logoColor=5C3A2A" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-FF9F80?style=for-the-badge&logo=nodedotjs&logoColor=5C3A2A" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF9F80?style=for-the-badge&logo=javascript&logoColor=5C3A2A" alt="JavaScript"/>
 </p>
 
 <p align="center">
-  <b>📝 Lenguajes</b><br/>
-  <img src="https://img.shields.io/badge/C-FFB48F?style=for-the-badge&logo=c&logoColor=5C3A2A" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-FFB48F?style=for-the-badge&logo=cplusplus&logoColor=5C3A2A" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-FFB48F?style=for-the-badge&logo=openjdk&logoColor=5C3A2A" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFB48F?style=for-the-badge&logo=javascript&logoColor=5C3A2A" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-FFB48F?style=for-the-badge&logo=html5&logoColor=5C3A2A" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FFB48F?style=for-the-badge&logo=css3&logoColor=5C3A2A" alt="CSS3"/>
+  <b>🍃 Bases de datos</b><br/>
+  <img src="https://img.shields.io/badge/MongoDB-FFB48F?style=for-the-badge&logo=mongodb&logoColor=5C3A2A" alt="MongoDB"/>
 </p>
 
 <p align="center">
-  <b>🧰 Herramientas de desarrollo</b><br/>
-  <img src="https://img.shields.io/badge/Git-FF9F80?style=for-the-badge&logo=git&logoColor=5C3A2A" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-FF9F80?style=for-the-badge&logo=github&logoColor=5C3A2A" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-FF9F80?style=for-the-badge&logo=visualstudiocode&logoColor=5C3A2A" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Bash-FF9F80?style=for-the-badge&logo=gnubash&logoColor=5C3A2A" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Make-FF9F80?style=for-the-badge&logo=gnu&logoColor=5C3A2A" alt="Make"/>
+  <b>🧰 Herramientas</b><br/>
+  <img src="https://img.shields.io/badge/Git-FFD1A9?style=for-the-badge&logo=git&logoColor=5C3A2A" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FFD1A9?style=for-the-badge&logo=github&logoColor=5C3A2A" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-FFD1A9?style=for-the-badge&logo=docker&logoColor=5C3A2A" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FFD1A9?style=for-the-badge&logo=postman&logoColor=5C3A2A" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-FFD1A9?style=for-the-badge&logo=visualstudiocode&logoColor=5C3A2A" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jira-FFD1A9?style=for-the-badge&logo=jira&logoColor=5C3A2A" alt="Jira"/>
+</p>
+
+<p align="center">
+  <b>🤝 Metodología</b><br/>
+  <img src="https://img.shields.io/badge/Scrum-FFE3CC?style=for-the-badge&logo=scrumalliance&logoColor=5C3A2A&labelColor=FFE3CC&color=FFE3CC" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Kanban-FFE3CC?style=for-the-badge&logo=trello&logoColor=5C3A2A&labelColor=FFE3CC&color=FFE3CC" alt="Kanban"/>
+</p>
+
+<p align="center">
+  <sub>También he trabajado con C, C++ y Java durante la carrera.</sub>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/albergm02/albergm02/main/assets/divider.svg" alt="" width="70%"/></p>
